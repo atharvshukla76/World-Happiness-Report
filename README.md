@@ -6,6 +6,8 @@ A Power BI dashboard analyzing the World Happiness Report data, exploring key fa
 
 This project contains an interactive Power BI report (`World Happiness Report.pbix`) that visualizes happiness scores and their contributing factors worldwide.
 
+![World Happiness Report Dashboard](dashboard.png)
+
 ## 🔑 Key Metrics Explored
 
 - **Happiness Score** — Overall happiness ranking by country
